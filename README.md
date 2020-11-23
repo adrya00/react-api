@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Tutoral followed as "How to Consume a restful API in React" (https://pusher.com/tutorials/consume-restful-api-react)
+Tutoral followed as "How to Consume a restful API in React"\
+https://pusher.com/tutorials/consume-restful-api-react
 
 ## Available Scripts
 
